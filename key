@@ -1,0 +1,10 @@
+domain use key 'sha5'
+internet use key 'sha6'
+
+key 'lock' or 'open lock'
+
++key = open lock
++key = lock only https://datax366.github.io/domain/
+
+key sha5
+key sha6
