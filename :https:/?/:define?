@@ -2,5 +2,6 @@ define? = define for ? to choice
 define? answer true
 define? answer false
 
+option = ?
 implement '? = true' answer <>
 implement '? = false' answer <>
