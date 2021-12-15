@@ -1,1 +1,5 @@
+index = datax366.github.io ^ datax366
+web = datax366 : index ^ .web
 
+
+'implement' view ^ hide ^ view
