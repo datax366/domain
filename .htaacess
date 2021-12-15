@@ -1,2 +1,3 @@
 deny from internet (domain) = deny() domain(list:domain)
+list :
 deny from www.google.com
