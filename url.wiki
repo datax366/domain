@@ -1,4 +1,4 @@
-source : datax336.github.io/domain/wiki
+source : datax366.github.io/domain/wiki
 
 syntax text
 syntax line
