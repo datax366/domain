@@ -1,1 +1,2 @@
-
+link : global.json = text
+link : #include 'https://github.com/datax366/domain/blob/Masters/'
